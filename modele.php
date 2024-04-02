@@ -1,4 +1,4 @@
-// Modele.php
+
 class Modele {
     private $bdd;
 
